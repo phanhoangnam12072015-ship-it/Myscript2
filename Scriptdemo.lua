@@ -89,6 +89,9 @@ AddButton(Tab9o,{Name="Huysad Hub",Callback=function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/HuySadd/Huy-Sad-Ch-nh-Th-c/refs/heads/main/HuysadChinhThuc.lua"))()
 end})
 
+AddButton(Tab7o,{Name="blue x red",Callback=function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Dev-BlueX/BlueX-Hub/refs/heads/main/Main.lua"))()
+end})
 -------------------------------------------------
 -- MINIMIZE
 -------------------------------------------------
