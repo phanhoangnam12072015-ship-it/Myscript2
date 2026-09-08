@@ -60,6 +60,10 @@ AddButton(Tab1,{Name="Nullsaken",Callback=function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/34f3f/forsaken.github.io/refs/heads/main/ringtabublik.lua"))()
 end})
 
+AddButton(Tab1,{Name="ringta",Callback=function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/34f3f/forsaken.github.io/refs/heads/main/ringtabublik.lua"))()
+end})
+
 -------------------------------------------------
 -- TAB 2
 -------------------------------------------------
