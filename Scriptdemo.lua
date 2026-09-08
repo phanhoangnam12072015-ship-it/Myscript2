@@ -71,15 +71,15 @@ AddButton(Tab2,{Name="AWT (with key)",Callback=function()
 loadstring(game:HttpGet("https://pastebin.com/raw/gf22x6st"))()
 end})
 
-AddButton(Tab2,{Name="FacilityHub",Callback=function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/FacilityHUB/FacilityHub/refs/heads/main/WarTycoons"))()
+AddButton(Tab2,{Name="nobulem",Callback=function()
+loadstring(game:HttpGet("https://nobulem.wtf/loader.lua"))()
 end})
 
 -------------------------------------------------
 -- TAB 3
 -------------------------------------------------
-AddButton(Tab3,{Name="VexonHub",Callback=function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/DiosDi/VexonHub/refs/heads/main/VexonHub"))()
+AddButton(Tab3,{Name="y2k",Callback=function()
+loadstring(game:HttpGet("https://y2kscript.xyz"))()
 end})
 
 -------------------------------------------------
