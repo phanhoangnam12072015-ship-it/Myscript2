@@ -102,7 +102,7 @@ end})
 -------------------------------------------------
 -- TAB 6
 -------------------------------------------------
-AddButton(Tab6,{Name="Server VIP Free",Callback=function()
+AddButton(Tab6,{Name="Server VIP Free pached",Callback=function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/anuragaming1/Meow_gaming/refs/heads/main/Servervip.lua"))()
 end})
 
